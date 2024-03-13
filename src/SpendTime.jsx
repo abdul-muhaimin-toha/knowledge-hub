@@ -1,13 +1,17 @@
 import PropTypes from "prop-types";
 
-SpendTime.propTypes = {};
-
-function SpendTime() {
+function SpendTime({ readingTime }) {
   return (
     <div className="flex items-center justify-center rounded-lg bg-cyan-200 px-4 py-8">
-      <h4 className="text-2xl font-bold">Spent time on read : 177 min</h4>
+      <h4 className="text-xl font-bold">
+        Spent time on read : {readingTime} min.
+      </h4>
     </div>
   );
 }
+
+SpendTime.propTypes = {
+  readingTime: PropTypes.number.isRequired,
+};
 
 export default SpendTime;
