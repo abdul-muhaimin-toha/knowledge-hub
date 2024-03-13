@@ -3,7 +3,10 @@ import Blog from "./Blog";
 
 const Blogs = () => {
   return (
-    <div>
+    <div className="col-span-2 flex flex-col gap-10">
+      <Blog></Blog>
+      <Blog></Blog>
+      <Blog></Blog>
       <Blog></Blog>
     </div>
   );

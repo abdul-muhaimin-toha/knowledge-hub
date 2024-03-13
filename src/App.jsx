@@ -8,11 +8,15 @@ function App() {
     <>
       <Header></Header>
       <main>
-        <Blogs></Blogs>
-        <aside>
-          <SpendTime></SpendTime>
-          <Bookmarks></Bookmarks>
-        </aside>
+        <div className="mx-auto max-w-screen-xl px-2  md:px-6">
+          <div className="grid grid-cols-3 gap-6">
+            <Blogs></Blogs>
+            <aside className="col-span-1 flex flex-col gap-6">
+              <SpendTime></SpendTime>
+              <Bookmarks></Bookmarks>
+            </aside>
+          </div>
+        </div>
       </main>
     </>
   );
