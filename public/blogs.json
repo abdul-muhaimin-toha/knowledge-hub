@@ -1,0 +1,92 @@
+[
+  {
+    "post_title": "The Power of Positive Thinking",
+    "author_name": "Samantha Smith",
+    "posted_date": "March 10, 2024 (3 days ago)",
+    "reading_time": "8 minutes",
+    "hashtags": ["positivity", "selfimprovement", "motivation"],
+    "post_banner": "https://example.com/positive_thinking_banner.jpg",
+    "user_img": "https://example.com/samantha_smith_profile.jpg"
+  },
+  {
+    "post_title": "Exploring the Depths of the Ocean",
+    "author_name": "David Johnson",
+    "posted_date": "March 9, 2024 (4 days ago)",
+    "reading_time": "12 minutes",
+    "hashtags": ["oceanography", "marinebiology", "exploration"],
+    "post_banner": "https://example.com/ocean_exploration_banner.jpg",
+    "user_img": "https://example.com/david_johnson_profile.jpg"
+  },
+  {
+    "post_title": "The Art of Mindfulness",
+    "author_name": "Emily Parker",
+    "posted_date": "March 8, 2024 (5 days ago)",
+    "reading_time": "10 minutes",
+    "hashtags": ["mindfulness", "meditation", "selfcare"],
+    "post_banner": "https://example.com/mindfulness_art_banner.jpg",
+    "user_img": "https://example.com/emily_parker_profile.jpg"
+  },
+  {
+    "post_title": "10 Tips for Productivity",
+    "author_name": "Daniel Brown",
+    "posted_date": "March 7, 2024 (6 days ago)",
+    "reading_time": "7 minutes",
+    "hashtags": ["productivity", "efficiency", "timemanagement"],
+    "post_banner": "https://example.com/productivity_tips_banner.jpg",
+    "user_img": "https://example.com/daniel_brown_profile.jpg"
+  },
+  {
+    "post_title": "The Beauty of Nature",
+    "author_name": "Olivia White",
+    "posted_date": "March 6, 2024 (7 days ago)",
+    "reading_time": "15 minutes",
+    "hashtags": ["nature", "environment", "photography"],
+    "post_banner": "https://example.com/nature_beauty_banner.jpg",
+    "user_img": "https://example.com/olivia_white_profile.jpg"
+  },
+  {
+    "post_title": "Unlocking Creativity: A Journey Within",
+    "author_name": "Michael Turner",
+    "posted_date": "March 5, 2024 (8 days ago)",
+    "reading_time": "9 minutes",
+    "hashtags": ["creativity", "inspiration", "imagination"],
+    "post_banner": "https://example.com/creativity_journey_banner.jpg",
+    "user_img": "https://example.com/michael_turner_profile.jpg"
+  },
+  {
+    "post_title": "Healthy Eating Habits for a Better Life",
+    "author_name": "Sophia Martinez",
+    "posted_date": "March 4, 2024 (9 days ago)",
+    "reading_time": "11 minutes",
+    "hashtags": ["healthyeating", "nutrition", "wellness"],
+    "post_banner": "https://example.com/healthy_eating_banner.jpg",
+    "user_img": "https://example.com/sophia_martinez_profile.jpg"
+  },
+  {
+    "post_title": "The Importance of Gratitude",
+    "author_name": "Ethan Adams",
+    "posted_date": "March 3, 2024 (10 days ago)",
+    "reading_time": "6 minutes",
+    "hashtags": ["gratitude", "thankfulness", "happiness"],
+    "post_banner": "https://example.com/gratitude_importance_banner.jpg",
+    "user_img": "https://example.com/ethan_adams_profile.jpg"
+  },
+  {
+    "post_title": "Exploring Ancient Civilizations",
+    "author_name": "Isabella Clark",
+    "posted_date": "March 2, 2024 (11 days ago)",
+    "reading_time": "14 minutes",
+    "hashtags": ["history", "archaeology", "civilizations"],
+    "post_banner": "https://example.com/ancient_civilizations_banner.jpg",
+    "user_img": "https://example.com/isabella_clark_profile.jpg"
+  },
+  {
+    "post_title": "Stress Management Techniques for Modern Life",
+    "author_name": "Nathan Lee",
+    "posted_date": "March 1, 2024 (12 days ago)",
+    "reading_time": "10 minutes",
+    "hashtags": ["stressmanagement", "mentalhealth", "selfcare"],
+    "post_banner": "https://example.com/stress_management_banner.jpg",
+    "user_img": "https://example.com/nathan_lee_profile.jpg"
+  }
+]

@@ -1,4 +1,5 @@
 import user from "./assets/Abdul Muhaimin Toha.jpg";
+import { FaBookmark } from "react-icons/fa";
 import PropTypes from "prop-types";
 
 function Blog() {
@@ -19,7 +20,9 @@ function Blog() {
         </div>
         <div className="flex items-center gap-2  ">
           <p className="text-base font-medium ">05 min read</p>
-          <button>B</button>
+          <button>
+            <FaBookmark />
+          </button>
         </div>
       </div>
       <h2 className="text-4xl font-bold">
