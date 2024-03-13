@@ -5,6 +5,7 @@ import { useState } from "react";
 
 function Blog({ post, handleAddToBookMarked, handleTotalReadingTime }) {
   const [isBookMarked, setIsBookMarked] = useState(false);
+  const [isRead, setIsRead] = useState(false);
 
   const {
     post_banner,
@@ -65,10 +66,13 @@ function Blog({ post, handleAddToBookMarked, handleTotalReadingTime }) {
       </div>
       <div>
         <button
-          onClick={() => handleTotalReadingTime(reading_time)}
+          onClick={() => {
+            handleTotalReadingTime(reading_time, isRead);
+            setIsRead(!isRead);
+          }}
           className="font-semibold text-fuchsia-700 underline"
         >
-          Mark as Read
+          {isRead ? "Mark as Unread" : "Mark as Read"}
         </button>
       </div>
     </div>

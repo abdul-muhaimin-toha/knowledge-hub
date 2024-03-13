@@ -25,8 +25,12 @@ function App() {
     }
   };
 
-  const handleTotalReadingTime = (time) => {
-    setReadingTime(readingTime + time);
+  const handleTotalReadingTime = (time, isRead) => {
+    if (!isRead) {
+      setReadingTime(readingTime + time);
+    } else {
+      setReadingTime(readingTime - time);
+    }
   };
 
   return (
